@@ -2,7 +2,7 @@
 This is my learnings on the deepstream sdk
 
 ## What is Deepstream SDK
-Deepstream SDK is a comprehensive set of tools that can be used for running accelerated application on NVIDIA Jetson platform.
+Deepstream SDK is a comprehensive set of tools that can be used for running accelerated application on NVIDIA GPUs andJetson platform.
 
 ## Where is it run?
 - NVIDIA JETSON AGX ORIN
